@@ -14,7 +14,7 @@ var y : Int
     println(a + b)
 
 if(a==20)
-    println("you're an asshole")
+    println("you're a Gentleman")
 
     println(a)
 }
